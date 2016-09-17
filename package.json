@@ -2,7 +2,7 @@
   "name": "discgolfmap",
   "version": "0.0.1",
   "description": "Disc golf map webapp",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
